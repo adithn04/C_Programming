@@ -20,7 +20,6 @@ void inputStudents(struct Student s[], int n) {
         }
     }
 }
-
 void calculateAverage(struct Student *s) {
     int total = 0;
     for(int i = 0; i < 5; i++) {
